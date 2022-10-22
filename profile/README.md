@@ -1,1 +1,5 @@
-Tervetuloa Kajaanitechin GitHub Profiiliin 👋 
+## Tervetuloa Kajaanitechin GitHub Profiiliin 👋 
+
+##### Somet
+
+[Instagram]() - [Twitter]() - [Youtube]()
