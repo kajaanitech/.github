@@ -12,7 +12,7 @@ Perustelut: Täysin valmis upea yritys, ajankohtainen, palvelulle selkeä tarve,
 
 
 ### Uutiset / YMS
-15.2.2023: [Kainuun Sanomat](https://www.kainuunsanomat.fi/artikkeli/nuoret-hankkivat-oikeita-asiakkaita-jo-opiskeluaikana-ja-kysynta-kajaanissa-on-aika-kovaa-nuorten-osaamista-paasee-nakemaan-keskiviikkona-yleisotapahtumassa-275935627/)
+15.2.2023: [Kainuun Sanomat](https://web.archive.org/web/20230215075148/https://www.kainuunsanomat.fi/artikkeli/nuoret-hankkivat-oikeita-asiakkaita-jo-opiskeluaikana-ja-kysynta-kajaanissa-on-aika-kovaa-nuorten-osaamista-paasee-nakemaan-keskiviikkona-yleisotapahtumassa-275935627/)
 
 ##### Somet
 
