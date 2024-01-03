@@ -1,4 +1,4 @@
-## Tervetuloa Kajaanitechin GitHub Profiiliin 👋 
+## Tervetuloa Kajaanitechin GitHub Profiiliin 👋 (LOPETETTU YRITYS)
 
 
 ### Suoritukset / Voitot
