@@ -1,4 +1,4 @@
-## Tervetuloa Kajaanitechin GitHub Profiiliin 👋 (LOPETETTU YRITYS)
+## Tervetuloa Kajaanitechin GitHub Profiiliin 👋
 
 
 ### Suoritukset / Voitot
@@ -7,8 +7,10 @@
 Paras NY-yritys 2. aste: Kajaanitech NY 
 Kainuun ammattiopisto, Kajaani  
 
-Kajaanitech NY toimii IT-alalla ja tarjoaa asiakkailleen erilaisia IT-palveluita, kuten koodausta ja tietokonehuoltoa. 
-Perustelut: Täysin valmis upea yritys, ajankohtainen, palvelulle selkeä tarve, hyvä liikeidea, upeat nettisivut, oman ammattitaidon jakaminen yrityksen kautta.  
+```diff
++ Kajaanitech NY toimii IT-alalla ja tarjoaa asiakkailleen erilaisia IT-palveluita, kuten koodausta ja tietokonehuoltoa. 
++ Perustelut: Täysin valmis upea yritys, ajankohtainen, palvelulle selkeä tarve, hyvä liikeidea, upeat nettisivut, oman ammattitaidon jakaminen yrityksen kautta.  
+```
 
 
 ### Uutiset / YMS
@@ -16,4 +18,4 @@ Perustelut: Täysin valmis upea yritys, ajankohtainen, palvelulle selkeä tarve,
 
 ##### Somet
 
-[Instagram](https://www.instagram.com/kajaanitech.fi/) - [FaceBook](https://www.facebook.com/profile.php?id=100086620331355) - [Linkedin](https://www.linkedin.com/company/kajaanitech/) - [Virtuaalinen Käyntikortti](https://vk.kajaanitech.fi/)
+[Instagram](https://www.instagram.com/kajaanitech.fi/) - [FaceBook](https://www.facebook.com/profile.php?id=100086620331355)
